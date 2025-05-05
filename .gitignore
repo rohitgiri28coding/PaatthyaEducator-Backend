@@ -32,3 +32,4 @@ Thumbs.db
 # temp files
 .tmp/
 .temp/ 
+ec2-my-key.pem
